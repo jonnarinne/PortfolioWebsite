@@ -30,5 +30,11 @@ The portfolio website is easy to navigate. The main navigation bar includes link
 
 ## Screenshots
 
-![etusivu](https://github.com/user-attachments/assets/7c2569a4-eee2-4d26-bc85-0ec11ced86c8)
+![etusivu](https://github.com/user-attachments/assets/c2074be1-82fc-4d96-ab71-c5f48144c5bd)
+
+![Etusivuteksti](https://github.com/user-attachments/assets/0997aa6d-cf0d-4da9-8b0f-7e5611dcc2d5)
+
+![esittely](https://github.com/user-attachments/assets/0d1ccbcb-266e-4586-a3e0-eb15f9cc656d)
+
+
 
