@@ -29,3 +29,6 @@ The portfolio website is easy to navigate. The main navigation bar includes link
 - JavaScript
 
 ## Screenshots
+
+![etusivu](https://github.com/user-attachments/assets/7c2569a4-eee2-4d26-bc85-0ec11ced86c8)
+
